@@ -2,14 +2,41 @@
     background-color: aqua;
     text-align: center;
 }
+img {
+    display: block;
+    margin: 0 auto;
+}
 .font {
     font-family:Arial, Helvetica, sans-serif;
     font-weight: bold;
+}
+ul{
+    text-align: center;
 }
 .color {
     background-color: rgb(226, 43, 171);
     text-align: center;
     list-style: none;
+    padding: 10px 0;
+    margin: 0 auto;
+}
+div{
+    text-align: center;
+}
+.f {
+    background-color: rgb(168, 251, 91);
+    display: inline-block;
+    padding: 8px 24px;
+}
+.s {
+    background-color: rgb(220, 23, 23);
+    display: inline-block;
+    padding: 8px 24px;
+}
+.t {
+    background-color: rgb(201, 230, 15);
+    display: inline-block;
+    padding: 8px 24px;
 }
 .var{
     font-size: 22px;
